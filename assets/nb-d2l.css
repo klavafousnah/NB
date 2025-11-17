@@ -14,8 +14,8 @@ h1 {
 }
 
 h2 {
-    color: #666666; 
-    border-bottom: 4px #B22126 solid;
+    color: #00403B; 
+    border-bottom: 4px #00403B solid;
     padding-bottom: 10px;
     margin-bottom: 0.512em;
     line-height: 1.25em;
@@ -37,9 +37,9 @@ h2 {
 
 
 h3 {
-    color: #00403B;
-    border-bottom: 4px #00403B solid;
-    border-left: 4px #00403B solid;
+    color: #B22126;
+    border-bottom: 4px #B22126 solid;
+    border-left: 4px #B22126 solid;
     padding: 10px 0px 10px 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.25em;
