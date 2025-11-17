@@ -268,7 +268,7 @@ iframe {
  */
 
 .site-header {
-    background-color: #222222;
+    background-color: #fff;
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
 }
@@ -279,7 +279,7 @@ iframe {
 }
 
 .site-header a:hover {
-    color: #fff;
+    color: #666;
     text-decoration: none;
 }
 
