@@ -301,7 +301,7 @@ iframe {
 
 .hero {
     min-height: 300px;
-    background: #000 url("../Module1 /imgs/1 1.png") center center no-repeat;
+    background: #000 url("../assets/imgs/Background.png") center center no-repeat;
     background-size: cover;
     position: relative;
 }
